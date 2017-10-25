@@ -1,0 +1,13 @@
+{
+  "name":"testchat",
+  "version":"0.0.0",
+  "description":"my nodejs test for socket.io",
+  "main":"index.js",
+  "author":"liyp",
+  "private":true,
+  "license":"BSD",
+  "dependencies":{
+    "express":"*",
+	"socket.io":"*"
+  }
+}
